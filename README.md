@@ -10,7 +10,7 @@ I have been working as a software Engineer since 5 yrs love learning and discove
 * ✉️  You can contact me at [snehalkamble0312@gmail.com](mailto:snehalkamble0312@gmail.com)
 * 🧠  I'm learning AWS
 * 🤝  I'm open to collaborating on Projects
-* ⚡  I am a Super Girl But dont tell anyone.
+* ⚡  I am a Super Girl but dont tell anyone.
 
 <a href="https://www.github.com/snehalkamble0312" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/snehalkamble0312?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>

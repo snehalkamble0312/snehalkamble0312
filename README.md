@@ -30,7 +30,7 @@ src="https://img.shields.io/github/followers/snehalkamble0312?logo=github&style=
 
 ### Socials
 
-<p align="left"> <a href="https://www.github.com/snehalkamble0312" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a></p>
+<p align="left"> <a href="https://www.github.com/snehalkamble0312" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://hashnode.com/@Snehal0312.hashnode.dev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/hashnode.svg" width="32" height="32" /></a></p>
 
 ### Badges
 
